@@ -57,24 +57,6 @@ export default function HomePage({ params }) {
 
   return (
     <>
-      <script
-        type="application/ld+json"
-        dangerouslySetInnerHTML={{
-          __html: JSON.stringify({
-            '@context': 'https://schema.org',
-            '@type': 'WebSite',
-            name: 'Vie Claire',
-            url: `https://www.vieclaire.com/${lang}`,
-            description: dict.hero.subtitle,
-            inLanguage: lang,
-            potentialAction: {
-              '@type': 'SearchAction',
-              target: { '@type': 'EntryPoint', urlTemplate: `https://www.vieclaire.com/${lang}/blog?q={search_term_string}` },
-              'query-input': 'required name=search_term_string',
-            },
-          }),
-        }}
-      />
       <Hero dict={dict} lang={lang} />
 
       {/* Tools strip */}

@@ -1,5 +1,6 @@
 import { getDictionary } from '@/i18n';
 import { SITE_URL } from '@/lib/seo';
+import { BreadcrumbSchema } from '@/components/SchemaOrg';
 import Breadcrumb from '@/components/Breadcrumb';
 
 const STATIC_LANGS = ['en', 'fr', 'de'];
@@ -163,6 +164,10 @@ export default function LegalPage({ params }) {
 
   return (
     <>
+      <BreadcrumbSchema crumbs={[
+        { name: 'Vie Claire', url: `${SITE_URL}/${lang}` },
+        { name: pageTitle, url: `${SITE_URL}/${lang}/legal` },
+      ]} />
       <section className="relative bg-gradient-to-br from-navy-950 to-navy-900 pt-32 pb-16">
         <div className="relative max-w-3xl mx-auto px-6 text-center">
           <div className="text-5xl mb-6">⚖️</div>

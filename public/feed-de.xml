@@ -1,0 +1,264 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Vie Claire — Persönliche Finanzen Blog</title>
+    <link>https://www.vieclaire.com/de/blog</link>
+    <description>Persönliche Finanzen: Budgetierung, Investieren, finanzielle Freiheit. Für echte Menschen.</description>
+    <language>de</language>
+    <lastBuildDate>Sat, 28 Mar 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://www.vieclaire.com/de/feed.xml" rel="self" type="application/rss+xml"/>
+    <image>
+      <url>https://www.vieclaire.com/img/og-default.png</url>
+      <title>Vie Claire — Persönliche Finanzen Blog</title>
+      <link>https://www.vieclaire.com/de/blog</link>
+    </image>
+    <item>
+      <title>🏦 Geldanlage für Anfänger: Der Guide, den deine Bank nie schreiben würde</title>
+      <link>https://www.vieclaire.com/de/blog/geldanlage-fuer-anfaenger/</link>
+      <guid isPermaLink="true">https://www.vieclaire.com/de/blog/geldanlage-fuer-anfaenger/</guid>
+      <description>ETFs, Tagesgeld, Sparplan — wir erklären den deutschen Anlage-Dschungel.</description>
+      <category>Investing</category>
+      <pubDate>Sat, 08 Mar 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>📊 Die historische Robustheit diversifizierter Portfolios</title>
+      <link>https://www.vieclaire.com/de/blog/die-historische-robustheit-diversifizierter-portfolios-was-anleger-daraus-l/</link>
+      <guid isPermaLink="true">https://www.vieclaire.com/de/blog/die-historische-robustheit-diversifizierter-portfolios-was-anleger-daraus-l/</guid>
+      <description>Warum breit gestreute Portfolios Krisen, Inflation und Zinswenden historisch besser verkraften – und was das für Anleger bedeutet.</description>
+      <category>Markets</category>
+      <pubDate>Tue, 15 Oct 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>🧠 Die Opportunitätskosten moderner Lebensstile</title>
+      <link>https://www.vieclaire.com/de/blog/die-opportunitatskosten-moderner-lebensstile-was-bequemlichkeit-wirklich-ko/</link>
+      <guid isPermaLink="true">https://www.vieclaire.com/de/blog/die-opportunitatskosten-moderner-lebensstile-was-bequemlichkeit-wirklich-ko/</guid>
+      <description>Moderne Lebensstile kosten mehr als Geld: Dieser Artikel zeigt, wie Bequemlichkeit, Konsum und Routinen versteckte Opportunitätskosten erzeugen.</description>
+      <category>Mindset</category>
+      <pubDate>Sun, 06 Oct 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>🔥 Sparquote als Treiber des Vermögensaufbaus</title>
+      <link>https://www.vieclaire.com/de/blog/sparquote-als-treiber-des-vermogensaufbaus-warum-sie-wichtiger-ist-als-rend/</link>
+      <guid isPermaLink="true">https://www.vieclaire.com/de/blog/sparquote-als-treiber-des-vermogensaufbaus-warum-sie-wichtiger-ist-als-rend/</guid>
+      <description>Die Sparquote ist der stärkste Hebel beim Vermögensaufbau. Wie sie wirkt, warum sie Rendite oft schlägt und worauf Anleger achten sollten.</description>
+      <category>FIRE</category>
+      <pubDate>Fri, 27 Sep 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>📈 Die stille Kraft des Zinseszinses im Vermögensaufbau verstehen</title>
+      <link>https://www.vieclaire.com/de/blog/die-stille-kraft-des-zinseszinses-im-vermogensaufbau-verstehen-und-nutzen/</link>
+      <guid isPermaLink="true">https://www.vieclaire.com/de/blog/die-stille-kraft-des-zinseszinses-im-vermogensaufbau-verstehen-und-nutzen/</guid>
+      <description>Wie Zinseszins Vermögen langfristig wachsen lässt: verständlich erklärt mit Praxisbeispielen, Renditeeffekten und typischen Fehlern.</description>
+      <category>Investing</category>
+      <pubDate>Wed, 18 Sep 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>🧠 Jede Ausgabe ist ein Tausch mit der Zukunft</title>
+      <link>https://www.vieclaire.com/de/blog/jede-ausgabe-ist-ein-tausch-mit-der-zukunft-die-wahren-kosten-von-konsument/</link>
+      <guid isPermaLink="true">https://www.vieclaire.com/de/blog/jede-ausgabe-ist-ein-tausch-mit-der-zukunft-die-wahren-kosten-von-konsument/</guid>
+      <description>Jede Ausgabe kostet mehr als Geld: Verstehen Sie Opportunitätskosten, versteckte Folgen und wie heutiger Konsum Ihre finanzielle Zukunft formt.</description>
+      <category>Mindset</category>
+      <pubDate>Mon, 09 Sep 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>🧠 Kurzfristdenken bei langfristigen Finanzentscheidungen</title>
+      <link>https://www.vieclaire.com/de/blog/kurzfristdenken-bei-langfristigen-finanzentscheidungen-die-unterschatzten-k/</link>
+      <guid isPermaLink="true">https://www.vieclaire.com/de/blog/kurzfristdenken-bei-langfristigen-finanzentscheidungen-die-unterschatzten-k/</guid>
+      <description>Wie Kurzfristdenken Vermögensaufbau, Rendite und finanzielle Stabilität schwächt – und welche versteckten Kosten daraus langfristig entstehen.</description>
+      <category>Mindset</category>
+      <pubDate>Sat, 31 Aug 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>🧠 Vermögen als Reduktion von Zwängen</title>
+      <link>https://www.vieclaire.com/de/blog/vermogen-als-reduktion-von-zwangen-warum-finanzielle-freiheit-mit-spielraum/</link>
+      <guid isPermaLink="true">https://www.vieclaire.com/de/blog/vermogen-als-reduktion-von-zwangen-warum-finanzielle-freiheit-mit-spielraum/</guid>
+      <description>Vermögen reduziert finanzielle Zwänge, schafft Handlungsspielraum und stärkt Unabhängigkeit. So verändert Geld echte Entscheidungen im Alltag.</description>
+      <category>Mindset</category>
+      <pubDate>Thu, 22 Aug 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>🧠 Warum Disziplin wichtiger ist als Einkommen</title>
+      <link>https://www.vieclaire.com/de/blog/warum-disziplin-wichtiger-ist-als-einkommen-der-entscheidende-faktor-fur-ve/</link>
+      <guid isPermaLink="true">https://www.vieclaire.com/de/blog/warum-disziplin-wichtiger-ist-als-einkommen-der-entscheidende-faktor-fur-ve/</guid>
+      <description>Nicht das Einkommen allein entscheidet über Vermögen, sondern finanzielle Disziplin. Warum Verhalten langfristig wichtiger ist als Gehalt.</description>
+      <category>Mindset</category>
+      <pubDate>Tue, 13 Aug 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>🧠 Warum Einfachheit bei Finanzentscheidungen oft besser ist als</title>
+      <link>https://www.vieclaire.com/de/blog/warum-einfachheit-bei-finanzentscheidungen-oft-besser-ist-als-komplexitat/</link>
+      <guid isPermaLink="true">https://www.vieclaire.com/de/blog/warum-einfachheit-bei-finanzentscheidungen-oft-besser-ist-als-komplexitat/</guid>
+      <description>Einfache Finanzentscheidungen senken Kosten, Fehler und Risiken. Warum klare Strategien komplizierten Lösungen oft finanziell überlegen sind.</description>
+      <category>Mindset</category>
+      <pubDate>Sun, 04 Aug 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>📊 Warum Finanzzyklen trotz besserer Information bestehen bleiben</title>
+      <link>https://www.vieclaire.com/de/blog/warum-finanzzyklen-trotz-besserer-information-bestehen-bleiben/</link>
+      <guid isPermaLink="true">https://www.vieclaire.com/de/blog/warum-finanzzyklen-trotz-besserer-information-bestehen-bleiben/</guid>
+      <description>Mehr Daten, schnellere Nachrichten, bessere Tools: Warum Finanzzyklen dennoch fortbestehen und welche psychologischen und strukturellen Gründe dahinterstehen.</description>
+      <category>Markets</category>
+      <pubDate>Fri, 26 Jul 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>🧠 Warum höheres Einkommen selten zu nachhaltigem Vermögen führt</title>
+      <link>https://www.vieclaire.com/de/blog/warum-hoheres-einkommen-selten-zu-nachhaltigem-vermogen-fuhrt/</link>
+      <guid isPermaLink="true">https://www.vieclaire.com/de/blog/warum-hoheres-einkommen-selten-zu-nachhaltigem-vermogen-fuhrt/</guid>
+      <description>Mehr Einkommen schafft nicht automatisch Vermögen. Warum Lebensstil, Kosten und Fehlentscheidungen langfristigen Wohlstand oft ausbremsen.</description>
+      <category>Mindset</category>
+      <pubDate>Wed, 17 Jul 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>🧠 Warum kleine finanzielle Entscheidungen große Folgen haben</title>
+      <link>https://www.vieclaire.com/de/blog/warum-kleine-finanzielle-entscheidungen-grosse-folgen-haben/</link>
+      <guid isPermaLink="true">https://www.vieclaire.com/de/blog/warum-kleine-finanzielle-entscheidungen-grosse-folgen-haben/</guid>
+      <description>Schon kleine Ausgaben, Gewohnheiten und Vertragsdetails können Vermögen, Schulden und finanzielle Freiheit stärker beeinflussen als gedacht.</description>
+      <category>Mindset</category>
+      <pubDate>Mon, 08 Jul 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>📊 Gold, Aktien und Inflation: Langfristige Perspektiven für Anleger</title>
+      <link>https://www.vieclaire.com/de/blog/gold-aktien-und-inflation-langfristige-perspektiven-fur-anleger/</link>
+      <guid isPermaLink="true">https://www.vieclaire.com/de/blog/gold-aktien-und-inflation-langfristige-perspektiven-fur-anleger/</guid>
+      <description>Wie Gold und Aktien in Inflationsphasen reagieren, welche Mechanismen dahinterstehen und was eine langfristige Perspektive für Anleger bedeutet.</description>
+      <category>Markets</category>
+      <pubDate>Sat, 29 Jun 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>📊 Warum Märkte fallen – und warum sie sich erholen</title>
+      <link>https://www.vieclaire.com/de/blog/warum-markte-fallen-und-warum-sie-sich-erholen-ursachen-muster-und-chancen/</link>
+      <guid isPermaLink="true">https://www.vieclaire.com/de/blog/warum-markte-fallen-und-warum-sie-sich-erholen-ursachen-muster-und-chancen/</guid>
+      <description>Warum Börsen fallen und später wieder steigen: die wichtigsten Ursachen, Mechanismen und historischen Muster für Anleger klar erklärt.</description>
+      <category>Markets</category>
+      <pubDate>Thu, 20 Jun 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>📊 100 Jahre Marktrenditen: Was langfristige Börsenzyklen über</title>
+      <link>https://www.vieclaire.com/de/blog/100-jahre-marktrenditen-was-langfristige-borsenzyklen-uber-vermogensaufbau/</link>
+      <guid isPermaLink="true">https://www.vieclaire.com/de/blog/100-jahre-marktrenditen-was-langfristige-borsenzyklen-uber-vermogensaufbau/</guid>
+      <description>Ein Blick auf ein Jahrhundert Marktrenditen zeigt, wie Zinseszins, Krisen und Inflation den langfristigen Vermögensaufbau prägen.</description>
+      <category>Markets</category>
+      <pubDate>Tue, 11 Jun 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>🧠 Der unsichtbare Preis von Konsum in einer Investmentwelt</title>
+      <link>https://www.vieclaire.com/de/blog/der-unsichtbare-preis-von-konsum-in-einer-investmentwelt/</link>
+      <guid isPermaLink="true">https://www.vieclaire.com/de/blog/der-unsichtbare-preis-von-konsum-in-einer-investmentwelt/</guid>
+      <description>Wie Konsumentscheidungen Rendite kosten: Der Artikel zeigt, wie Opportunitätskosten, Zinseszins und Verhalten langfristigen Vermögensaufbau bremsen.</description>
+      <category>Mindset</category>
+      <pubDate>Sun, 02 Jun 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>📈 Die Grenzen rationalen Investierens</title>
+      <link>https://www.vieclaire.com/de/blog/die-grenzen-rationalen-investierens-warum-anleger-trotz-logik-fehler-machen/</link>
+      <guid isPermaLink="true">https://www.vieclaire.com/de/blog/die-grenzen-rationalen-investierens-warum-anleger-trotz-logik-fehler-machen/</guid>
+      <description>Rational investieren klingt einfach. Doch Emotionen, Unsicherheit und Marktmechanik setzen klare Grenzen. Was Anleger wirklich beachten sollten.</description>
+      <category>Investing</category>
+      <pubDate>Fri, 24 May 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>📈 Die Illusion der Kontrolle beim aktiven Investieren verstehen</title>
+      <link>https://www.vieclaire.com/de/blog/die-illusion-der-kontrolle-beim-aktiven-investieren-verstehen/</link>
+      <guid isPermaLink="true">https://www.vieclaire.com/de/blog/die-illusion-der-kontrolle-beim-aktiven-investieren-verstehen/</guid>
+      <description>Warum aktives Investieren oft nur Kontrolle vorgaukelt: psychologische Fallen, Marktmechanismen und was langfristig wirklich Rendite treibt.</description>
+      <category>Investing</category>
+      <pubDate>Wed, 15 May 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>🧠 Konsum als Form der Desinvestition</title>
+      <link>https://www.vieclaire.com/de/blog/konsum-als-form-der-desinvestition-wie-ausgaben-vermogensaufbau-bremsen/</link>
+      <guid isPermaLink="true">https://www.vieclaire.com/de/blog/konsum-als-form-der-desinvestition-wie-ausgaben-vermogensaufbau-bremsen/</guid>
+      <description>Wer konsumiert, verzichtet oft auf künftige Rendite. Warum Ausgaben wie Desinvestition wirken und was das für Vermögensaufbau bedeutet.</description>
+      <category>Mindset</category>
+      <pubDate>Mon, 06 May 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>📊 Warum Investoren ihre eigenen Renditen unterbieten</title>
+      <link>https://www.vieclaire.com/de/blog/warum-investoren-ihre-eigenen-renditen-unterbieten-die-haufigsten-ursachen/</link>
+      <guid isPermaLink="true">https://www.vieclaire.com/de/blog/warum-investoren-ihre-eigenen-renditen-unterbieten-die-haufigsten-ursachen/</guid>
+      <description>Viele Anleger erzielen weniger als ihre Investments. Warum Verhalten, Timing und Kosten die Rendite drücken – und wie sich das vermeiden lässt.</description>
+      <category>Markets</category>
+      <pubDate>Sat, 27 Apr 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>📈 Warum Zeit wichtiger ist als Timing beim Investieren</title>
+      <link>https://www.vieclaire.com/de/blog/warum-zeit-wichtiger-ist-als-timing-beim-investieren/</link>
+      <guid isPermaLink="true">https://www.vieclaire.com/de/blog/warum-zeit-wichtiger-ist-als-timing-beim-investieren/</guid>
+      <description>Langfristig investieren schlägt Markttiming: Warum Zeit, Zinseszins und Disziplin beim Vermögensaufbau oft wichtiger sind als der perfekte Einstieg.</description>
+      <category>Investing</category>
+      <pubDate>Thu, 18 Apr 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>📈 Was langfristige Investoren über Risiko oft missverstehen</title>
+      <link>https://www.vieclaire.com/de/blog/was-langfristige-investoren-uber-risiko-oft-missverstehen/</link>
+      <guid isPermaLink="true">https://www.vieclaire.com/de/blog/was-langfristige-investoren-uber-risiko-oft-missverstehen/</guid>
+      <description>Viele Anleger verwechseln Risiko mit Kursschwankung. Warum echtes Risiko anders entsteht und wie langfristige Investoren besser entscheiden.</description>
+      <category>Investing</category>
+      <pubDate>Tue, 09 Apr 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>🧠 Vermögen vs. sichtbarer Reichtum: Der entscheidende Unterschied</title>
+      <link>https://www.vieclaire.com/de/blog/vermogen-vs-sichtbarer-reichtum-der-entscheidende-unterschied/</link>
+      <guid isPermaLink="true">https://www.vieclaire.com/de/blog/vermogen-vs-sichtbarer-reichtum-der-entscheidende-unterschied/</guid>
+      <description>Warum echtes Vermögen oft unsichtbar bleibt und sichtbarer Reichtum täuschen kann – mit klaren Beispielen, Denkfehlern und Finanzlogik.</description>
+      <category>Mindset</category>
+      <pubDate>Sun, 31 Mar 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>🧠 Die Ökonomie des „Genug“: Warum weniger oft zu mehr Wohlstand</title>
+      <link>https://www.vieclaire.com/de/blog/die-okonomie-des-genug-warum-weniger-oft-zu-mehr-wohlstand-fuhrt/</link>
+      <guid isPermaLink="true">https://www.vieclaire.com/de/blog/die-okonomie-des-genug-warum-weniger-oft-zu-mehr-wohlstand-fuhrt/</guid>
+      <description>Wie das Prinzip des „Genug“ zu mehr Wohlstand, Freiheit und Lebensqualität führt – mit klarem Blick auf Konsum, Zeit und finanzielle Stabilität.</description>
+      <category>Mindset</category>
+      <pubDate>Fri, 22 Mar 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>🔥 Eigentum und Freiheit: Die ökonomische Beziehung hinter</title>
+      <link>https://www.vieclaire.com/de/blog/eigentum-und-freiheit-die-okonomische-beziehung-hinter-unabhangigkeit-und-w/</link>
+      <guid isPermaLink="true">https://www.vieclaire.com/de/blog/eigentum-und-freiheit-die-okonomische-beziehung-hinter-unabhangigkeit-und-w/</guid>
+      <description>Wie Eigentum Freiheit schafft: Der Artikel erklärt die ökonomische Beziehung zwischen Besitz, Unabhängigkeit, Sicherheit und Wohlstand.</description>
+      <category>FIRE</category>
+      <pubDate>Wed, 13 Mar 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>🧠 Zeit als wichtigste Währung finanzieller Freiheit verstehen</title>
+      <link>https://www.vieclaire.com/de/blog/zeit-als-wichtigste-wahrung-finanzieller-freiheit-verstehen/</link>
+      <guid isPermaLink="true">https://www.vieclaire.com/de/blog/zeit-als-wichtigste-wahrung-finanzieller-freiheit-verstehen/</guid>
+      <description>Warum Zeit wichtiger ist als Geld: So entsteht finanzielle Freiheit durch kluge Entscheidungen, Rendite, Prioritäten und langfristiges Denken.</description>
+      <category>Mindset</category>
+      <pubDate>Mon, 04 Mar 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>🔥 Status oder finanzielle Unabhängigkeit</title>
+      <link>https://www.vieclaire.com/de/blog/status-oder-finanzielle-unabhangigkeit-der-versteckte-zielkonflikt-beim-ver/</link>
+      <guid isPermaLink="true">https://www.vieclaire.com/de/blog/status-oder-finanzielle-unabhangigkeit-der-versteckte-zielkonflikt-beim-ver/</guid>
+      <description>Wie Statuskonsum Vermögensaufbau bremst und warum finanzielle Unabhängigkeit oft an unsichtbaren sozialen Erwartungen scheitert.</description>
+      <category>FIRE</category>
+      <pubDate>Sat, 24 Feb 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>🔥 Der langsame Weg zur finanziellen Unabhängigkeit</title>
+      <link>https://www.vieclaire.com/de/blog/der-langsame-weg-zur-finanziellen-unabhangigkeit-warum-bestandigkeit-langfr/</link>
+      <guid isPermaLink="true">https://www.vieclaire.com/de/blog/der-langsame-weg-zur-finanziellen-unabhangigkeit-warum-bestandigkeit-langfr/</guid>
+      <description>Finanzielle Unabhängigkeit entsteht selten schnell. Warum ein langsamer, konsequenter Vermögensaufbau oft robuster und erfolgreicher ist.</description>
+      <category>FIRE</category>
+      <pubDate>Thu, 15 Feb 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>🔥 Die Mathematik finanzieller Unabhängigkeit</title>
+      <link>https://www.vieclaire.com/de/blog/die-mathematik-finanzieller-unabhangigkeit-so-berechnen-sie-ihren-weg-zur-f/</link>
+      <guid isPermaLink="true">https://www.vieclaire.com/de/blog/die-mathematik-finanzieller-unabhangigkeit-so-berechnen-sie-ihren-weg-zur-f/</guid>
+      <description>Wie viel Vermögen brauchen Sie wirklich? Die Mathematik finanzieller Unabhängigkeit erklärt Entnahmerate, Sparquote und Rendite klar.</description>
+      <category>FIRE</category>
+      <pubDate>Tue, 06 Feb 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>🔥 Finanzielle Unabhängigkeit als strukturelles Problem verstehen</title>
+      <link>https://www.vieclaire.com/de/blog/finanzielle-unabhangigkeit-als-strukturelles-problem-verstehen/</link>
+      <guid isPermaLink="true">https://www.vieclaire.com/de/blog/finanzielle-unabhangigkeit-als-strukturelles-problem-verstehen/</guid>
+      <description>Warum finanzielle Unabhängigkeit oft nicht nur Disziplin, sondern ein strukturelles Problem ist – mit Blick auf Einkommen, Wohnen und Vermögensaufbau.</description>
+      <category>FIRE</category>
+      <pubDate>Sun, 28 Jan 2024 00:00:00 +0000</pubDate>
+    </item>
+  </channel>
+</rss>

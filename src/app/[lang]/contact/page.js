@@ -142,7 +142,18 @@ export default function ContactPage({ params }) {
 
   return (
     <>
-      {/* Hero */}
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify({
+          '@context': 'https://schema.org',
+          '@type': 'BreadcrumbList',
+          itemListElement: [
+            { '@type': 'ListItem', position: 1, name: 'Vie Claire', item: `https://www.vieclaire.com/${lang}` },
+            { '@type': 'ListItem', position: 2, name: c.title, item: `https://www.vieclaire.com/${lang}/contact` },
+          ],
+        }) }}
+      />
+            {/* Hero */}
       <section className="relative bg-gradient-to-br from-navy-950 via-navy-900 to-green-950 pt-32 pb-20 overflow-hidden">
         <div className="absolute inset-0 opacity-10 pointer-events-none">
           <div className="absolute top-10 right-20 w-80 h-80 bg-green-400 rounded-full blur-3xl" />

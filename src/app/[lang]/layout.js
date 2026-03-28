@@ -1,5 +1,6 @@
 import { getDictionary, locales } from '@/i18n';
 import { SITE_URL } from '@/lib/seo';
+import { OrganizationSchema, WebSiteSchema } from '@/components/SchemaOrg';
 import Navbar from '@/components/Navbar';
 import Footer from '@/components/Footer';
 
@@ -26,6 +27,8 @@ export default function LangLayout({ children, params }) {
   const dict = getDictionary(params.lang);
   return (
     <>
+      <OrganizationSchema />
+      <WebSiteSchema lang={params.lang} />
       <Navbar dict={dict} lang={params.lang} />
       <main className="flex-1">{children}</main>
       <Footer dict={dict} lang={params.lang} />

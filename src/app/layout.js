@@ -16,6 +16,10 @@ export const metadata = {
   authors: [{ name: SITE_NAME, url: SITE_URL }],
   creator: SITE_NAME,
   publisher: SITE_NAME,
+  other: {
+    'google-adsense-account': 'ca-pub-5660843310926667',
+  },
+
   robots: { index: true, follow: true, 'max-snippet': -1, 'max-image-preview': 'large' },
   openGraph: {
     type: 'website',
@@ -45,6 +49,17 @@ export default function RootLayout({ children }) {
         />
         <link rel="icon" href="/favicon.ico" sizes="any" />
         <meta name="theme-color" content="#052e16" />
+        {/* RSS Autodiscovery */}
+        <link rel="alternate" type="application/rss+xml" title="Vie Claire — Personal Finance" href="/feed.xml" />
+        <link rel="alternate" type="application/rss+xml" title="Vie Claire EN" href="/feed-en.xml" />
+        <link rel="alternate" type="application/rss+xml" title="Vie Claire FR" href="/feed-fr.xml" />
+        <link rel="alternate" type="application/rss+xml" title="Vie Claire DE" href="/feed-de.xml" />
+        {/* Google AdSense — plain script tag required, avoids data-nscript warning */}
+        <script
+          async
+          src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5660843310926667"
+          crossOrigin="anonymous"
+        />
       </head>
       <body className="min-h-screen flex flex-col">
         {children}

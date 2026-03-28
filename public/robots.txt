@@ -1,8 +1,15 @@
 User-agent: *
 Allow: /
 
+# Block internal Next.js paths
 Disallow: /api/
 Disallow: /_next/
+Disallow: /static/
 
+# Crawl-delay: none (let Google crawl freely)
+
+# Primary sitemap index
+Sitemap: https://www.vieclaire.com/sitemap-index.xml
 Sitemap: https://www.vieclaire.com/sitemap.xml
+
 Host: https://www.vieclaire.com
